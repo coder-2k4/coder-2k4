@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coder-2k4
-- 👀 I’m interested in Learning new and buildinng..
+- 👀 I’m interested in Learning new and building..
 - 🌱 I’m currently learning some backend 
   
 
